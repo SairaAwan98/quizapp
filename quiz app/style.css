@@ -1,0 +1,40 @@
+body{
+   background: linear-gradient(to top, #c31432, #240b36);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.categories{
+    border-radius: 10px;
+    margin: auto;
+    justify-content: center;
+    box-shadow: -1px 1px 17px 14px rgba(3,3,3,0.96);
+    width: 90% !important;
+}
+button{
+    display: block;
+    cursor: pointer;
+}
+.heading{
+    color: yellow;
+    text-align: center;
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 5vmax;
+    text-shadow: 5px 5px red;
+}
+.btn{
+    display: block !important;
+    margin: 10px auto !important;
+    width: 50% !important;
+    font-size: 30px !important;
+    background: linear-gradient(to right, #3494e6, #ec6ead) !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;}
+
+
+
+
+

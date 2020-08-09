@@ -1,0 +1,44 @@
+.wrapper{
+    display: grid;
+    width: 800px;
+    height: auto;
+    grid-template-rows: 120px auto;
+    border-radius: 10px;
+}
+.header{
+    background-image: url("images/pexels-anni-roenkae-2832456.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.body{
+    background: linear-gradient(to right, #3494e6, #ec6ead) ;
+    padding: 60px;
+    
+}
+.btns{
+    
+    margin: 10px auto !important;
+    width: 50% !important;
+    font-size: 30px !important;
+    background: linear-gradient(to top, #c31432, #240b36) !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border-radius: 15px;
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    
+}
+    
+body{
+    background: linear-gradient(to top, #c31432, #240b36);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
